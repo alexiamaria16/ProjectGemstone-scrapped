@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8826772018221589593}
   - component: {fileID: 7589750468486883852}
   m_Layer: 0
-  m_Name: UpdatedHouseBorder
+  m_Name: Inside_HBorder2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
